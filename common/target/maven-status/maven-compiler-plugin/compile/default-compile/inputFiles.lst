@@ -1,0 +1,14 @@
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\security\TokenBlacklistService.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\exception\GlobalExceptionHandler.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\security\JwtTokenProvider.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\exception\EntityNotFoundException.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\security\JwtProperties.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\server\InstanceHeaderFilter.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\exception\ApiError.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\security\JwtAuthenticationFilter.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\exception\ReferentialIntegrityException.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\server\InstanceHeaderAutoConfiguration.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\exception\DuplicateResourceException.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\security\FeignClientInterceptor.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\CommonAutoConfiguration.java
+C:\Users\Guillermo Villacura\Downloads\Proyecto_biblioteca\Biblioteca-Springboot\common\src\main\java\cl\triskeledu\common\config\OpenApiConfig.java

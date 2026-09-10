@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BibliotecaEurekaApplication<cl-triskeledu-eureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cl.triskeledu.eureka.BibliotecaEurekaApplication",
+            "projectName": "cl-triskeledu-eureka",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BibliotecaUsuariosApplication<cl-triskeledu-usuarios>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cl.triskeledu.usuarios.BibliotecaUsuariosApplication",
+            "projectName": "cl-triskeledu-usuarios",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BibliotecaCatalogoApplication<cl-triskeledu-catalogo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cl.triskeledu.catalogo.BibliotecaCatalogoApplication",
+            "projectName": "cl-triskeledu-catalogo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=47264 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=cl-triskeledu-catalogo"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BibliotecaRecursosApplication<cl-triskeledu-recursos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cl.triskeledu.recursos.BibliotecaRecursosApplication",
+            "projectName": "cl-triskeledu-recursos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BibliotecaGatewayApplication<cl-triskeledu-gateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cl.triskeledu.gateway.BibliotecaGatewayApplication",
+            "projectName": "cl-triskeledu-gateway",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BibliotecaVehiculosApplication<cl-triskeledu-vehiculos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cl.triskeledu.vehiculos.BibliotecaVehiculosApplication",
+            "projectName": "cl-triskeledu-vehiculos",
+            "args": ""
+        }
+    ]
+}
