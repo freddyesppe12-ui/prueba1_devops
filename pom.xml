@@ -24,7 +24,6 @@
         <!-- [GATEWAY-INI] Nuevo módulo: API Gateway como punto de entrada único para todos los microservicios -->
         <module>api-gateway</module>      <!-- API Gateway (puerto 9000) - enruta y balancea peticiones -->
         <!-- [GATEWAY-FIN] -->
-        <module>ms-vehiculos</module>     <!-- Microservicio vehiculos: standalone, sin Eureka/Gateway/JWT -->
         <!-- CGV: Agrega aqui mas modulos segun sea necesario -->
     </modules>
 
